@@ -13,7 +13,7 @@
     "registry": "https://npm.pkg.github.com/@smashreality"
   },
   "scripts": {
-    "prepare": "npm run build",
+    "prepare": "npm run build && cp -rf package.json lib && cd lib",
     "build": "tsc",
     "test": "jest --config jestconfig.json",
     "format": "prettier --write \"src/**/*.ts\"",
