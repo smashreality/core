@@ -1,11 +1,12 @@
 {
   "version": "0.5.6",
-  "name": "@smashreality/uvio-core",
+  "name": "@smashreality/core",
   "author": "Smash Reality Inc.",
   "keywords": [
-    "uvio"
+    "smash",
+    "core"
   ],
-  "description": "uvio core libs, utils and interfactes",
+  "description": "smash core libs, utils and interfactes",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "publishConfig": {
