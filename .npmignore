@@ -1,4 +1,9 @@
-src
+/src
+/dist
 tsconfig.json
+tsup.config.js
 tslint.json
 .prettierrc
+
+.env
+.DS_Store

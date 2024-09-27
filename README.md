@@ -1,4 +1,4 @@
-# smash core
+# Smash Core @smashreality/core
 
 # create new version
 
