@@ -4,7 +4,7 @@
     "noImplicitAny": true,
     "esModuleInterop": true,
     "strictNullChecks": true,
-    "target": "ES2022",
+    "target": "ES5",
     "moduleResolution": "node",
     "module": "commonjs",
     "declaration": true,
